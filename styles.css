@@ -93,3 +93,29 @@ p {
 .card.card-blue {
   border-top: 3px solid var(--blue);
 }
+
+@media (min-width: 600px) {
+  h1,
+  h2 {
+    font-size: 36px;
+    line-height: 1.3;
+  }
+
+  .container {
+    text-align: center;
+    min-width: 500px;
+  }
+
+  .cards {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+  }
+
+  .card {
+    width: 300px;
+    flex-shrink: 0;
+  }
+}
