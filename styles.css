@@ -99,12 +99,18 @@ body {
   background: var(--clr-background);
 }
 
+p {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
 .header__sub-heading {
   font-size: 1.625rem;
   font-weight: 200;
   text-align: center;
   color: var(--clr-f-heading);
   white-space: nowrap;
+  margin-bottom: 0;
 }
 
 .header__heading {
@@ -114,11 +120,6 @@ body {
   color: var(--clr-f-heading);
   margin-bottom: 1rem;
   white-space: nowrap;
-}
-
-p {
-  text-align: center;
-  margin-bottom: 3rem;
 }
 
 .header {
