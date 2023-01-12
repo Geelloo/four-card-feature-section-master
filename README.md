@@ -10,8 +10,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-qdI25NbYT](https://www.frontendmentor.io/solutions/qr-code-component-qdI25NbYTQ)
-- Live Site URL: [https://geelloo.github.io/qr-code-component/](https://geelloo.github.io/qr-code-component/)
+- Solution URL: [https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub)
+- Live Site URL: [https://geelloo.github.io/four-card-feature-section-master/](https://geelloo.github.io/four-card-feature-section-master/)
 
 ## My process
 
