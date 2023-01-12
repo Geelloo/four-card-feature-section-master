@@ -10,7 +10,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub)
+- Solution URL: [https://www.frontendmentor.io/solutions/four-card-feature-section-5d1dYXxnKE](https://www.frontendmentor.io/solutions/four-card-feature-section-5d1dYXxnKE)
 - Live Site URL: [https://geelloo.github.io/four-card-feature-section-master/](https://geelloo.github.io/four-card-feature-section-master/)
 
 ## My process
